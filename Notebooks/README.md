@@ -29,11 +29,11 @@
 ## Step 3: Create a Conda Environment and Install Libraries:
 1. Create an environment:
     ```bash
-    conda create -n my_env -y
+    conda create -n cpp-notebooks -y
     ```
 2. Activate the environment:
     ```bash
-    conda activate my_env
+    conda activate cpp-notebooks
     ```
 3. Install Jupyter and Xeus-cling in the environment:
     ```bash
