@@ -25,6 +25,8 @@ We appreciate contributions from the following individuals:
 - [Mahdi Aghaei](https://github.com/maghaei33)
 - [Eliya Kaheni](https://github.com/EliyaKaheni)
 - [Fateme Raadfar](https://github.com/radfaar)
+- [Ali Zargar](https://github.com/0ALI0ZARGAR0)
+- [Herbod PourAli]()
 
 
 ## Setup Instructions
