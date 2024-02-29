@@ -11,10 +11,10 @@
 1. [Introduction to Classes](./Notebooks/01_Classes/): Getting started with Classes. <br><br>
 2. [Abstract Data Type and Inheritance](./Notebooks/02_ADT_and_Inheritance): Understanding and applying OOP concepts. <br><br>
 3. [Friends Overloaded Operators and Arrays in Classes](./Notebooks/03_Friends_Overloaded_Operators_and_Arrays_in_Classes): Introduction to Friend Classes, Overloading Operators, and working with Arrays in Classes. <br><br>
-5. [Inheritance](./Notebooks/05_Inheritance): Exploring the concept of Inheritance and its practical applications. <br><br>
-6. [Pointers and LinkedList](./Notebooks/06_Pointers_And_LinkedLists): Reviewing Pointers and delving into LinkedLists as an introduction to data structures. <br><br>
-7. [Templates](./Notebooks/07_Templates): Understanding the concept and usage of Templates in C++. <br><br>
-8. [Standard Template Library](./Notebooks/08_Standard_Template_Library): An exploration of the Standard Template Library (STL) and its versatile features. <br><br>
+4. [Inheritance](./Notebooks/04_Inheritance): Exploring the concept of Inheritance and its practical applications. <br><br>
+5. [Pointers and LinkedList](./Notebooks/05_Pointers_And_LinkedLists): Reviewing Pointers and delving into LinkedLists as an introduction to data structures. <br><br>
+6. [Templates](./Notebooks/06_Templates): Understanding the concept and usage of Templates in C++. <br><br>
+7. [Standard Template Library](./Notebooks/07_Standard_Template_Library): An exploration of the Standard Template Library (STL) and its versatile features. <br><br>
 
 Feel free to explore the folders above for detailed Jupyter Notebooks on each programming topic.
 
